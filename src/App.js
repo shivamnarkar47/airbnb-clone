@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <Header />
-      {/* <Home /> */}
+      <Home />
 
       {/* Header */}
       {/* Banner */}

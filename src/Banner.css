@@ -1,0 +1,50 @@
+.banner {
+  height: 50vh;
+  background: url('https://tr-images.condecdn.net/image/ekPlzDoowBj/crop/1020/f/2bo.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+}
+
+.banner__info {
+  background-color: #000;
+  color: #fff;
+  padding-top: 15vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  width: 300px;
+}
+
+.banner__searchButton {
+  color: #ff7779 !important;
+  background-color: #fff !important;
+  text-transform: inherit !important;
+  font-weight: 600 !important;
+}
+
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner__info > button {
+  background-color: #ff7779;
+  color: #fff;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+.banner__info > button:hover {
+  color: #ff7779;
+  background-color: #fff;
+  text-transform: inherit;
+}
+.banner__info > h1 {
+  line-height: 1.2;
+}
+
+.banner__info > h5 {
+  margin-top: 10px;
+}
