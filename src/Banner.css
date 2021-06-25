@@ -10,11 +10,11 @@
 .banner__info {
   background-color: #000;
   color: #fff;
-  padding-top: 15vh;
+  padding-top: 16vh;
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 40px;
-  width: 300px;
+  width: 400px;
 }
 
 .banner__searchButton {
